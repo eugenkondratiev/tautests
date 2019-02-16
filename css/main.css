@@ -1,0 +1,13 @@
+#euAfterNoise {
+    width : 300px;
+    height: 150px;
+    background-color: lightgrey;
+}
+
+#Valve {
+    width : 300px;
+    height: 100px;
+    background-color: lightcyan;
+    border: 1px solid;
+    align-items: center;
+}
